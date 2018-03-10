@@ -1,14 +1,12 @@
 /BookOfIllusions.class
 /CowTimer.class
-/FortuneTeller.class
-/Jeopardy.class
 /Movie.class
 /NetflixQueue.class
-/SimonSays.class
 /creepy-noise.wav
 /fortune teller.png
 /gridworld.jar
-/jeopardy.wav
-/moo.wav
 /illusion.jpg
 /illusion2.jpg
+/jeopardy.wav
+/moo.wav
+/Netflix.class
