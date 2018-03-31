@@ -23,7 +23,7 @@ public class Netflix {
 	Movie bestMovie =	Superheroes.getBestMovie();
 	System.out.println("The best movie is " + bestMovie);
 	 Superheroes.sortMoviesByRating();
-	System.out.println("The second best movie is " + );
+	System.out.println("The second best movie is " + movie5);
 		
 
 	}
